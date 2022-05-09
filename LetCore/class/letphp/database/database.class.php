@@ -1,6 +1,7 @@
 <?php
 
 LetPHP::getFileClass('letphp.database.dml');
+
 class LetPHP_Database
 {
 	/** @var  */
