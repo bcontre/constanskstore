@@ -39,15 +39,15 @@ $_CONFIG['main.session_lifetime'] = 86400 * 2;
 ## Son los segundos de 1 día
 
 ## Configuracion del Sitio
-$_CONFIG['main.site_name'] = "LetPHP";
-$_CONFIG['main.site_title'] = "LetPHP Framework";
-$_CONFIG['main.site_copyright'] = "LetPHP Framework creado por LetCode©";
+$_CONFIG['main.site_name'] = "ConstansKStore";
+$_CONFIG['main.site_title'] = "ConstansKStore";
+$_CONFIG['main.site_copyright'] = "ConstansKStore creado por Bcontrer©";
 $_CONFIG['main.site_title_delimiter'] = "»";
 $_CONFIG['main.site_keywords'] = "{site_name}, framework desarrollado con PHP.";
 $_CONFIG['main.site_description'] = "{site_name}, es un framework desarrollado con PHP, para hacer más sencillo y fácil el desarrollo de tus proyectos web.";
 $_CONFIG['main.site_theme'] = "";
 $_CONFIG['main.token'] = "1c5f1832d1422748a869efc3466baf74f44e1bb8";
 $_CONFIG['main.site_secure'] = 2;
-$_CONFIG['main.app_core'] = "app";
+$_CONFIG['main.app_core'] = "main"; //nombre de carpeta a correr
     
 ?>
